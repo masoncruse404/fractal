@@ -1,0 +1,1 @@
+Parallel Fractal-generating software written in cpp. Different versions of parallelization include: MPI, OPENMP, and CUDA
